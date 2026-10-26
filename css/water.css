@@ -1,0 +1,23 @@
+.water-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.water-button {
+    background-color: var(--water-color);
+}
+
+.btn-water-add {
+    background-color: var(--water-color);
+}
+
+.btn-water-add:hover {
+    background-color: #076ebc;
+
+.btn-water-reset:hover {
+        background-color: #b71c1c;
+    }
+}
